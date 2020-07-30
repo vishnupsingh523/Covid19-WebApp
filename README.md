@@ -1,7 +1,7 @@
 # Covid19-WebApp
 With the help of this you can get your country's covid cases details.
 <h2>
-  Lanugaes Used: :telescope </h2>
+  Lanugaes Used: </h2>
   <ul>
   <li>HTML5</li>
   <li>CSS3</li>
