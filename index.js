@@ -25,6 +25,7 @@ function getResults(name){
                 '<li>New Confirmed : '+data.Countries[i].NewConfirmed+'</li>'+
                 '<li>New Deaths : '+data.Countries[i].NewDeaths+'</li>'+
                 '<li>New Recovered : '+data.Countries[i].NewRecovered+'</li>'+
+                '<li>Active Cases : '+data.Countries[i].TotalConfirmed-data.Countries[i].TotalDeaths-data.Countries[i].TotalRecovered'</li>'+
                 '<li>Total Confirmed : '+data.Countries[i].TotalConfirmed+'</li>'+
                 '<li>Total Deaths : '+data.Countries[i].TotalDeaths+'</li>'+
                 '<li>Total Recovered : '+data.Countries[i].TotalRecovered+'</li><br><br>' ;
