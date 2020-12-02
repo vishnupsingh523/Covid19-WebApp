@@ -11,4 +11,4 @@ With the help of this you can get your country's covid cases details.
 <a href="https://vishnupsingh523.github.io/Covid19-WebApp-by-Vishnu/">Covid19-WebApp-by-Vishnu</a>
   
 <h2>Version 1.0 </h2>
-<img src="img/version1.jpg"/>
+<img src="img/version1.JPG">
