@@ -12,3 +12,6 @@ With the help of this you can get your country's covid cases details.
   
 <h2>Version 1.0 </h2>
 <img src="img/version1.JPG">
+
+<h2>Version 2.0 </h2>
+<img src="img/virsion2.JPG">
